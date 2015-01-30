@@ -1,0 +1,328 @@
+bird_sci_name,bird_comm_eng_name,bird_body_colours,bird_sex,bird_size,bird_image
+Phalacrocorax niger,Little Cormorant,"Black,Grey,White,Brown",M/F,Pigeon +,http://en.wikipedia.org/wiki/Little_Cormorant
+Tachybaptus ruficollis,Little Grebe,"Brown,Black,White",M/F,Myna +,http://en.wikipedia.org/wiki/Little_Grebe
+Mesophoyx intermedia ,Intermediate Egret ,White,M,Kite +,http://en.wikipedia.org/wiki/Intermediate_Egret
+Mesophoyx intermedia ,Intermediate Egret ,White,F,Kite +,http://en.wikipedia.org/wiki/Intermediate_Egret
+Bubulcus ibis,Cattle Egret,"White,Yellow,Orange",M/F,Hen +,http://en.wikipedia.org/wiki/Cattle_Egret
+Ardeola grayii ,Indian Pond-heron ,"White,Brown,Red",M/F,Hen,http://en.wikipedia.org/wiki/Indian_Pond_Heron
+Dendrocygna javanica,Lesser Whistling-duck,"Brown,White",M/F,Hen +,http://en.wikipedia.org/wiki/Lesser_Whistling_Duck
+Anas poecilorhyncha,Indian Spot-billed Duck (Spot-billed Duck),"Brown,Blue,Green,White",M,Hen +,http://en.wikipedia.org/wiki/Spot-billed_Duck
+Anas poecilorhyncha,Indian Spot-billed Duck (Spot-billed Duck),"Brown,Blue,White",F,Hen +,http://en.wikipedia.org/wiki/Spot-billed_Duck
+Anas acuta,Northern Pintail,"Brown,Grey,White,Black,Yellow,Orange",M,Hen +,http://en.wikipedia.org/wiki/Northern_Pintail
+Anas acuta,Northern Pintail,Brown,F,Hen +,http://en.wikipedia.org/wiki/Northern_Pintail
+Anas clypeata,Northern Shoveller,"Green,Brown,White,Black",M,Hen +,http://en.wikipedia.org/wiki/Northern_Shoveler
+Anas clypeata,Northern Shoveller,"Brown,White",F,Hen +,http://en.wikipedia.org/wiki/Northern_Shoveler
+Anas penelope,Eurasian Wigeon,"Grey,Brown,Black,White,Green",M,Hen +,http://en.wikipedia.org/wiki/Eurasian_Wigeon
+Anas penelope,Eurasian Wigeon,"Grey,Brown,Black,White",F,Hen +,http://en.wikipedia.org/wiki/Eurasian_Wigeon
+Nettapus coromanelianus,Cotton Teal (Cotton Pygmy-goose),"Black,White,Green,Grey",M,Hen -,http://en.wikipedia.org/wiki/Cotton_Pygmy_Goose
+Nettapus coromanelianus,Cotton Teal (Cotton Pygmy-goose),"Brown,White,Green,Grey",F,Hen -,http://en.wikipedia.org/wiki/Cotton_Pygmy_Goose
+Pernis ptilorhyncus,Oriental Honey-buzzard,"Brown,Grey",M/F,Kite +,http://en.wikipedia.org/wiki/Crested_Honey_Buzzard
+Elanus caeruleus ,Black-winged Kite (Black-shouldered Kite),"Grey,White,Black",M/F,Pigeon +,http://en.wikipedia.org/wiki/Black-winged_Kite
+Milvus migrans,Black Kite,"Brown,Grey",M/F,Kite  ,http://en.wikipedia.org/wiki/Black_Kite
+Haliastur indus,Brahminy Kite,"Red,White,Brown",M/F,Kite,http://en.wikipedia.org/wiki/Brahminy_Kite
+Accipiter badius ,Shikra ,"Grey,White,Brown",M,Pigeon -,http://en.wikipedia.org/wiki/Shikra
+Accipiter badius ,Shikra,"Grey,White,Brown",F,Pigeon -,http://en.wikipedia.org/wiki/Shikra
+Accipiter nisus,Eurasian Sparrowhawk,"Grey,Brown",M,Kite -,http://en.wikipedia.org/wiki/Eurasian_Sparrowhawk
+Accipiter nisus,Eurasian Sparrowhawk,"Grey,Brown",F,Kite -,http://en.wikipedia.org/wiki/Eurasian_Sparrowhawk
+Spizaetus cirrhatus,Changeable Hawk-Eagle,"Brown,White,Black",M/F,Kite +,http://en.wikipedia.org/wiki/Changeable_Hawk-Eagle
+Hieraaetus fasciatus ,Bonelli’s Eagle,"Brown,Black",M/F,Kite +,http://en.wikipedia.org/wiki/Bonelli's_Eagle
+Hieraaetus pennatus,Booted Eagle,"Brown,White,Black",M/F,Kite +,http://en.wikipedia.org/wiki/Booted_Eagle
+Aquila rapax,Tawny Eagle,Brown,M/F,Kite +,http://en.wikipedia.org/wiki/Tawny_Eagle
+Aquila pomarina,Indian Spotted Eagle (Lesser Spotted Eagle),"Brown,White",M/F,Kite +,http://en.wikipedia.org/wiki/Indian_Spotted_Eagle
+Neophron percnopterus,Egyptian Vulture,"White,Grey,Brown,Yellow",M/F,Kite +,http://en.wikipedia.org/wiki/Egyptian_Vulture
+Gyps fulvus,Griffon Vulture (Eurasian Griffon),"Brown,Grey,White,Black",M/F,Vulture,http://en.wikipedia.org/wiki/Griffon_Vulture
+Gyps indicus,Indian Vulture (Long-billed Vulture),"Brown,Grey,White,Black",M/F,Vulture,http://en.wikipedia.org/wiki/Indian_Vulture
+Gyps bengalensis,White-rumped Vulture,"Brown,White,Grey,Black",M/F,Vulture,http://en.wikipedia.org/wiki/White-rumped_Vulture
+Circus pygargus,Montagu’s Harrier,"Grey,Black,White,Brown",M,Kite ,http://en.wikipedia.org/wiki/Montagu's_Harrier
+Circus pygargus,Montagu’s Harrier,"Brown,White",F,Kite ,http://en.wikipedia.org/wiki/Montagu's_Harrier
+Circus macrourus,Pallid Harrier,"Grey,Black,White ",M,Kite,http://en.wikipedia.org/wiki/Pallid_Harrier
+Circus macrourus,Pallid Harrier,"Brown,White",F,Kite,http://en.wikipedia.org/wiki/Pallid_Harrier
+Spilornis cheela,Crested Serpent-eagle,"Brown,White,Black",M/F,Kite +,http://en.wikipedia.org/wiki/Crested_Serpent_Eagle
+Falco peregrinus,Peregrine Falcon,"Black,White,Brown,Yellow",M/F,Kite -,http://en.wikipedia.org/wiki/Peregrine_Falcon
+Falco tinnunculus ,Common Kestrel,"Brown,Grey,Yellow",M/F,Pigeon,http://en.wikipedia.org/wiki/Common_Kestrel
+Galloperdix spadicea,Red Spurfowl,"Red,Brown,Grey,Black,Pink",M,Hen,http://en.wikipedia.org/wiki/Red_Spurfowl
+Galloperdix spadicea,Red Spurfowl,"Brown,Black,Grey",F,Hen,http://en.wikipedia.org/wiki/Red_Spurfowl
+Francolinus pondicerianus,Grey Francolin,"Grey,Brown,Yellow",M/F,Hen,http://en.wikipedia.org/wiki/Grey_Francolin
+Francolinus pictus,Painted Francolin,"Black,White,Brown",M,Hen,http://en.wikipedia.org/wiki/Painted_Francolin
+Francolinus pictus,Painted Francolin,Brown,F,Hen,http://en.wikipedia.org/wiki/Painted_Francolin
+Coturnix coromandelica,Rain Quail,"Brown,Black,White",M,Myna +,http://en.wikipedia.org/wiki/Rain_Quail
+Coturnix coromandelica,Rain Quail,"Brown,White",F,Myna +,http://en.wikipedia.org/wiki/Rain_Quail
+Perdicula argoondah,Rock Bush-quail,"Brown,Black,White",M,Myna +,http://en.wikipedia.org/wiki/Rock_Bush_Quail
+Perdicula argoondah,Rock Bush-quail,"Brown,White",F,Myna +,http://en.wikipedia.org/wiki/Rock_Bush_Quail
+Turnix tanki,Yellow-legged Buttonquail,"Brown,orange,Brown,Black,White",M,Myna +,http://en.wikipedia.org/wiki/Yellow-legged_Buttonquail
+Turnix tanki,Yellow-legged Buttonquail,"Brown,Black,White",F,Myna +,http://en.wikipedia.org/wiki/Yellow-legged_Buttonquail
+Pavo Cristatus,Indian Peafowl,"Blue,Green,Brown,White,Black",M,Vulture +,http://en.wikipedia.org/wiki/Indian_Peafowl
+Pavo Cristatus,Indian Peafowl,"Brown,Green,White,Black",F,Vulture +,http://en.wikipedia.org/wiki/Indian_Peafowl
+Gallus sonneratii,Grey Junglefowl,"Yellow,Black,White,Red,Grey,Brown",M,Hen,http://en.wikipedia.org/wiki/Grey_Junglefowl
+Gallus sonneratii,Grey Junglefowl,"Brown,Black,White,Pink",F,Hen,http://en.wikipedia.org/wiki/Grey_Junglefowl
+Burhinus oedicnemus,Indian Stone-Curlew (Eurasian Thick-knee),"Brown,White",M/F,Hen -,http://en.wikipedia.org/wiki/Eurasian_Stone-curlew
+Himantopus himantopus,Black-winged Stilt,"White,Black,Brown",M/F,Hen -,http://en.wikipedia.org/wiki/Black-winged_Stilt
+Glareola lactea,Small Pratincole,"Brown,White",M/F,Myna -,http://en.wikipedia.org/wiki/Small_Pratincole
+Vanellus malarbaricus,Yellow-wattled Lapwing,"White,Black,Brown,Yellow",M/F,Pigeon,http://en.wikipedia.org/wiki/Yellow-wattled_Lapwing
+Vanellus indicus ,Red-wattled Lapwing,"Brown,White,Black",M/F,Pigeon,http://en.wikipedia.org/wiki/Red-wattled_Lapwing
+Charadrius dubius,Little Ringed Plover,"Brown,White,Black,Yellow",M/F,Myna -,http://en.wikipedia.org/wiki/Little_Ringed_Plover
+Gallinago gallinago,Common Snipe,"Brown,White",M/F,Myna,http://en.wikipedia.org/wiki/Common_Snipe
+Actitis hypoleucos,Common Sandpiper,"White,Brown",M/F,Myna,http://en.wikipedia.org/wiki/Common_Sandpiper
+Tringa ochropus,Green Sandpiper,"White,Brown",M/F,Myna,http://en.wikipedia.org/wiki/Green_Sandpiper
+Tringa glareola,Wood Sandpiper,"White,Brown,Grey",M/F,Myna,http://en.wikipedia.org/wiki/Wood_Sandpiper
+Calidris minuta,Little Stint,"White,Brown,Orange,Grey",M/F,Myna -,http://en.wikipedia.org/wiki/Little_Stint
+Gelochelidon nilotica,Gull-billed Tern,"Grey,White",M/F,Kite -,http://en.wikipedia.org/wiki/Gull-billed_Tern
+Sterna aurantia,River Tern,"Grey,White,Black",M/F,Kite -,http://en.wikipedia.org/wiki/River_Tern_(bird)
+Streptopelia decaocto,Eurasian Collared-dove,"Grey,Brown,Black",M/F,Pigeon,http://en.wikipedia.org/wiki/Eurasian_Collared_Dove
+Sterptopelia senegalensis,Laughing Dove,"Pink,Brown,Grey,White",M/F,Pigeon -,http://en.wikipedia.org/wiki/Laughing_Dove
+Streptopelia orientalis ,Oriental Turtle-dove,"Brown,Orange,Grey",M/F,Pigeon,http://en.wikipedia.org/wiki/Oriental_Turtle_Dove
+Streptopelia tranquebarica,Red Collared-dove,"Pink,Grey,Brown,Black,White",M,Pigeon -,http://en.wikipedia.org/wiki/Red_Turtle_Dove
+Streptopelia tranquebarica,Red Collared-dove,"Grey,Brown,Black,White",F,Pigeon -,http://en.wikipedia.org/wiki/Red_Turtle_Dove
+Streptopelia chinensis,Spotted Dove,"Pink,Brown,Black,White",M/F,Pigeon,http://en.wikipedia.org/wiki/Spotted_Dove
+Columba livia,Rock Pigeon,"Grey,Blue,Black,Pink,Green,White",M/F,Pigeon,http://en.wikipedia.org/wiki/Rock_Dove
+Treron phoenicoptera,Yellow-footed Green-Pigeon,"Yellow,Green,Grey,Orange,Brown,White,Pink",M/F,Pigeon,http://en.wikipedia.org/wiki/Yellow-footed_Green_Pigeon
+Psittacula cyanocephala ,Plum-headed Parakeet,"Green,Yellow,Pink,Blue,White",M,Crow -,http://en.wikipedia.org/wiki/Plum-headed_Parakeet
+Psittacula cyanocephala ,Plum-headed Parakeet,"Green,Yellow,Grey,Blue,White",F,Crow -,http://en.wikipedia.org/wiki/Plum-headed_Parakeet
+Psittacula krameri,Rose-ringed Parakeet ,"Green,Blue,Black,Pink,Yellow,Red",M,Crow -,http://en.wikipedia.org/wiki/Rose-ringed_Parakeet
+Psittacula krameri,Rose-ringed Parakeet,"Green,Blue,Yellow,Red",F,Crow -,http://en.wikipedia.org/wiki/Rose-ringed_Parakeet
+Cacomantis passerinus,Grey-bellied Cuckoo,"Grey,White,Black,Yellow",M,Crow -,http://en.wikipedia.org/wiki/Grey-bellied_Cuckoo
+Cacomantis passerinus,Grey-bellied Cuckoo,"Yellow,Brown,White",F,Crow -,http://en.wikipedia.org/wiki/Grey-bellied_Cuckoo
+Cuculus micropterus,Indian Cuckoo,"Grey,White,Grey,Black,Yellow",M/F,Crow -,http://en.wikipedia.org/wiki/Indian_Cuckoo
+Clamator jacobinus,Jacobin Cuckoo (Pied Cuckoo),"Black,White,Grey",M/F,Crow -,http://en.wikipedia.org/wiki/Jacobin_Cuckoo
+Eudynamys scolopacea,Asian Koel,"Black,Grey",M,Crow -,http://en.wikipedia.org/wiki/Asian_Koel
+Eudynamys scolopacea,Asian Koel,"White,Brown ",F,Crow -,http://en.wikipedia.org/wiki/Asian_Koel
+Centropus sinensis,Greater Coucal,"Black,Brown,Grey",M/F,Crow,http://en.wikipedia.org/wiki/Greater_Coucal
+Caprimulgus indicus ,Grey Nightjar,"Grey,Brown,Brown,White",M/F,Myna +,http://en.wikipedia.org/wiki/Grey_Nightjar
+Caprimulgus asiaticus,Indian Little Nightjar (Indian Nightjar),"Brown,Orange,Grey,White",M/F,Crow - ,http://en.wikipedia.org/wiki/Indian_Nightjar
+Caprimulgus affinis,Savanna Nightjar,"Brown,Orange,White,Grey",M/F,Crow -,http://en.wikipedia.org/wiki/Savanna_Nightjar
+Ketupa zeylonensis,Brown Fish-Owl,"Brown,Black,White",M/F,Kite +,http://en.wikipedia.org/wiki/Brown_Fish_Owl
+Tyto alba,Common Barn-owl (Barn Owl),"Blue,Grey,Yellow,Brown,White,Black",M/F,Kite +,http://en.wikipedia.org/wiki/Barn_Owl
+Bubo bubo,Eurasian Eagle-owl,"Brown,Grey,White",M/F,Kite +,http://en.wikipedia.org/wiki/Eurasian_Eagle-Owl
+Strix ocellata,Mottled Wood-owl,"Brown,White,Grey",M/F,Kite - ,http://en.wikipedia.org/wiki/Mottled_Wood_Owl
+Otus bakkamoena,Indian Scops-Owl (Collared Scops-owl),"Brown,Black,Grey",M/F,Crow -,http://en.wikipedia.org/wiki/Indian_Scops_Owl
+Otus sunia ,Oriental Scops-owl,"Brown,Grey,White",M/F,Myna +,http://en.wikipedia.org/wiki/Oriental_Scops_Owl
+Athene brama ,Spotted Owlet,"Brown,Grey,White",M/F,Myna +,http://en.wikipedia.org/wiki/Spotted_Owlet
+Glaucidium radiatum,Jungle Owlet,"White,Brown,Grey",M/F,Myna +,Jungle Owlet
+Tachymarptis melba,Alpine Swift,"Brown,White",M/F,Sparrow +,http://en.wikipedia.org/wiki/Alpine_Swift
+Cypsiurus balasiensis,Asian Palm-Swift,Brown,M/F,Sparrow +,http://en.wikipedia.org/wiki/Asian_Palm_Swift
+Hemiprocne coronata,Crested Treeswift,"Grey,White,Brown,Black",M,Sparrow +,http://en.wikipedia.org/wiki/Crested_Treeswift
+Hemiprocne coronata,Crested Treeswift,"Grey,White,Black",F,Sparrow +,http://en.wikipedia.org/wiki/Crested_Treeswift
+Apus affinis,Little Swift (House Swift),"Grey,Black,White,Grey",M/F,Sparrow,http://en.wikipedia.org/wiki/House_Swift
+Coracias benghalensis,Indian Roller,"Brown,Blue",M/F,Pigeon -,http://en.wikipedia.org/wiki/Indian_Roller
+Halcyon smyrnensis ,White-throated Kingfisher,"Blue,Brown,White",M/F,Myna +,http://en.wikipedia.org/wiki/White-throated_Kingfisher
+Alcedo atthis ,Common Kingfisher,"Blue,Brown,White",M/F,Sparrow +,http://en.wikipedia.org/wiki/Common_Kingfisher
+Ceryle rudis,Lesser Pied Kingfisher (Pied Kingfisher),"Black,White",M/F,Myna,http://en.wikipedia.org/wiki/Pied_Kingfisher
+Merops orientalis ,Little Green Bee-eater (Green Bee-eater),"Green,Brown",M/F,Myna -,http://en.wikipedia.org/wiki/Little_Green_Bee-eater
+Megalaima zeylanica,Brown-headed Barbet,"Green,Brown,Green,Orange,White",M/F,Myna +,http://en.wikipedia.org/wiki/Brown-headed_Barbet
+Megalaima haemacephala,Coppersmith Barbet,"Green,Yellow,Red,Black,White",M/F,Sparrow,http://en.wikipedia.org/wiki/Coppersmith_Barbet
+Megalaima viridis ,White-cheeked Barbet,"Green,Brown,White",M/F,Myna,http://en.wikipedia.org/wiki/White-cheeked_Barbet
+Upupa epops,Common Hoopoe,"Brown,Black,White",M/F,Myna +,http://en.wikipedia.org/wiki/Common_Hoopoe
+Ocyceros birostris,Indian Grey Hornbill,"Grey,Brown,White,Yellow",M/F,Kite,http://en.wikipedia.org/wiki/Indian_Grey_Hornbill
+Dinopium benghalense,Black-rumped Flameback,"Red,Black,Brown,White,Yellow",M,Myna,http://en.wikipedia.org/wiki/Black-rumped_Flameback
+Dinopium benghalense,Black-rumped Flameback,"Yellow,Black,Brown,White",F,Myna,http://en.wikipedia.org/wiki/Black-rumped_Flameback
+Dinopium javanense,Common Flameback,"Yellow,Red,Black,White,Brown",M/F,Myna,http://en.wikipedia.org/wiki/Common_Flameback
+Dendrocopus nanus,Indian Pygmy Woodpecker (Brown-capped Pygmy Woodpecker),"Brown,White,Red,Grey",M,Sparrow +,http://en.wikipedia.org/wiki/Brown-capped_Pygmy_Woodpecker
+Dendrocopus nanus,Indian Pygmy Woodpecker (Brown-capped Pygmy Woodpecker),"Brown,White,Grey",F,Sparrow +,http://en.wikipedia.org/wiki/Brown-capped_Pygmy_Woodpecker
+Dendrocopos mahrattensis ,Yellow-fronted Pied Woodpecker (Yellow-crowned Woodpecker),"Brown,Black,White,Yellow,Orange,Red",M/F,Sparrow +,http://en.wikipedia.org/w/index.php?search=Yellow-fronted+Pied+Woodpecker&title=Special%3ASearch
+Aegithina tiphia ,Common Iora      ,"Yellow,Black,White",M/F,Sparrow,http://en.wikipedia.org/wiki/Common_Iora
+Oriolus oriolus,European Golden Oriole (Eurasian Golden Oriole),"Yellow,Black",M,Myna +,http://en.wikipedia.org/wiki/Eurasian_Golden_Oriole
+Oriolus oriolus,European Golden Oriole (Eurasian Golden Oriole),"Yellow,Brown,Black",F,Myna +,http://en.wikipedia.org/wiki/Eurasian_Golden_Oriole
+Eremopterix grisea,Ashy-crowned Finch-Lark (Ashy-crowned Sparrow lark),"Black,Brown,White,Grey",M,Sparrow,http://en.wikipedia.org/wiki/Ashy-crowned_Finch-Lark
+Eremopterix grisea,Ashy-crowned Finch-Lark (Ashy-crowned Sparrow lark),"Brown,White,Grey",F,Sparrow,http://en.wikipedia.org/wiki/Ashy-crowned_Finch-Lark
+Mirafra cantillans,Singing Bushlark,"Brown,White",M/F,Sparrow,http://en.wikipedia.org/wiki/Singing_Bushlark
+Calandrella brachydactyla,Greater Short-toed Lark,"Brown,White",M/F,Sparrow +,http://en.wikipedia.org/wiki/Greater_Short-toed_Lark
+Galerida malabarica,Malabar Lark (Crested Lark),"Brown,White",M/F,Sparrow +,http://en.wikipedia.org/w/index.php?search=Crested+Lark%29&title=Special%3ASearch
+Hirundo rustica,Barn Swallow,"Blue,Brown,Black",M/F,Sparrow +,http://en.wikipedia.org/wiki/Barn_Swallow
+Hirundo daurica,Red-rumped Swallow,"Blue,White,Brown",M/F,Sparrow +,http://en.wikipedia.org/wiki/Red-rumped_Swallow
+Hirundo fluvicola,Streak-throated Swallow,"Brown,Blue,White,Black",M/F,Sparrow,http://en.wikipedia.org/wiki/Streak-throated_Swallow
+Hirundo smithii ,Wire-tailed Swallow,"Blue,White,Brown",M/F,Sparrow,http://en.wikipedia.org/wiki/Wire-tailed_Swallow
+Hirundo concolor ,Dusky Crag-martin,Brown,M/F,Sparrow -,http://en.wikipedia.org/wiki/Dusky_Crag-martin
+Hirundo rupestris ,Eurasian Crag-martin,"Brown,White",M/F,Sparrow -,http://en.wikipedia.org/wiki/Eurasian_Crag-martin
+Riparia paludicola,Grey-throated Sand-martin (Plain Martin),"Brown,White,Grey",M/F,Sparrow - ,http://en.wikipedia.org/wiki/Grey-throated_Sand-martin
+Dicrurus leucophaeus,Ashy Drongo,"Grey,Black",M/F,Myna +,http://en.wikipedia.org/wiki/Ashy_Drongo
+Dicrurus macrocercus,Black Drongo,"Black,Grey",M/F,Myna +,http://en.wikipedia.org/wiki/Black_Drongo
+Dicrurus caerulescens,White-bellied Drongo,"Black,White,Grey",M/F,Myna,http://en.wikipedia.org/wiki/White-bellied_Drongo
+Lanius vittatus,Bay-backed Shrike,"Brown,Black,White,Grey",M/F,Sparrow +,http://en.wikipedia.org/wiki/Bay-backed_Shrike
+Lanius schach,Black-headed Long-tailed Shrike,"Orange,White,Black",M/F,Myna -,http://en.wikipedia.org/wiki/Long-tailed_Shrike
+Lanius cristatus,Brown Shrike,"Brown,White,Black",M/F,Myna -,http://en.wikipedia.org/wiki/Brown_Shrike
+Lanius isabellinus,Isabelline Shrike (Rufous-tailed Shrike),"Brown,Black,White",M/F,Myna -,http://en.wikipedia.org/wiki/Isabelline_Shrike
+Tephrodornis pondicerianus,Common Woodshrike,"Brown,White,Grey",M/F,Myna -,http://en.wikipedia.org/wiki/Common_Woodshrike
+Lanius meridionalis,Southern Grey Shrike,"Grey,White,Black",M/F,Myna -,http://en.wikipedia.org/wiki/Southern_Grey_Shrike
+Acridotheres tristis ,Common Myna,"Brown,Black,White,Yellow",M/F,Myna,http://en.wikipedia.org/wiki/Common_Myna
+Acridotheres fuscus,Jungle Myna,"Grey,Black,White,Grey",M/F,Myna,http://en.wikipedia.org/wiki/Jungle_Myna
+Sturnus malabaricus ,Grey-headed Starling (Chestnut-tailed Starling),"Brown,Grey,Orange,White",M/F,Myna -,http://en.wikipedia.org/wiki/Grey-headed_Starling
+Sturnus roseus,Rosy Starling,"Pink,Black,Grey",M/F,Myna,http://en.wikipedia.org/wiki/Rosy_Starling
+Dendrocitta vagabunda,Rufous Treepie,"Black,Grey,White,Brown",M/F,Pigeon +,http://en.wikipedia.org/wiki/Rufous_Treepie
+Corvus splendens,House Crow,"Grey,Black",M/F,Crow,http://en.wikipedia.org/wiki/House_Crow
+Corvus macrorhynchos ,Indian Jungle Crow (Large-billed Crow) ,"Black,Grey",M/F,Hen +,http://en.wikipedia.org/wiki/Large-billed_Crow
+Coracina melanoptera,Black-headed Cuckooshrike,"Grey,Black,White",M,Sparrow ,http://en.wikipedia.org/wiki/Black-headed_Cuckooshrike
+Coracina melanoptera,Black-headed Cuckooshrike,"Grey,Brown,White",F,Sparrow ,http://en.wikipedia.org/wiki/Black-headed_Cuckooshrike
+Pericrocotus cinnamomeus,Small Minivet,"Grey,Orange,Yellow,Black",M,Sparrow +,http://en.wikipedia.org/wiki/Small_Minivet
+Pericrocotus cinnamomeus,Small Minivet ,"Grey,Yellow,Black",F,Sparrow +,http://en.wikipedia.org/wiki/Small_Minivet
+Pycnonotus cafer ,Red-vented Bulbul,"Brown,Black,Red",M/F,Myna -,http://en.wikipedia.org/wiki/Red-vented_Bulbul
+Pycnonotus jocosus ,Red-whiskered Bulbul,"Brown,White,Red",M/F,Myna -,http://en.wikipedia.org/wiki/Red-whiskered_Bulbul
+Pellorneum ruficeps ,Puff-throated Babbler,"Brown,White",M/F,Sparrow +,http://en.wikipedia.org/wiki/Puff-throated_Babbler
+Dumetia hyperythra,Tawny-bellied Babbler,"Brown,Orange,White",M/F,Sparrow -,http://en.wikipedia.org/wiki/Tawny-bellied_Babbler
+Pomatorhinus horsfieldii ,Indian Scimitar-babbler,"Brown,White",M/F,Myna,http://en.wikipedia.org/wiki/Indian_Scimitar-babbler
+Turdoides striatus,Jungle Babbler,"Brown,Grey",M/F,Myna +,http://en.wikipedia.org/wiki/Jungle_Babbler
+Turdoides caudatus,Common Babbler,"Brown,White",M/F,Myna +,http://en.wikipedia.org/wiki/Common_Babbler
+Turdoides malcolmi,Large Grey Babbler,Brown,M/F,Myna +,http://en.wikipedia.org/wiki/Large_Grey_Babbler
+Muscicapa dauurica,Asian Brown Flycatcher,"White,Brown",M/F,Sparrow,http://en.wikipedia.org/wiki/Asian_Brown_Flycatcher
+Ficedula parva,Red-breasted Flycatcher (Red-throated Flycatcher),"White,Orange,Grey,Brown",M,Sparrow -,http://en.wikipedia.org/wiki/Red-breasted_Flycatcher
+Ficedula parva,Red-breasted Flycatcher (Red-throated Flycatcher),"White,Grey,Brown",F,Sparrow -,http://en.wikipedia.org/wiki/Red-breasted_Flycatcher
+Ficedula superciliaris,Ultramarine Flycatcher,"Blue,White,Brown,Grey",M,Sparrow - ,http://en.wikipedia.org/wiki/Ultramarine_Flycatcher
+Ficedula superciliaris,Ultramarine Flycatcher,"White,Brown,Grey",F,Sparrow - ,http://en.wikipedia.org/wiki/Ultramarine_Flycatcher
+Cyornis tickelliae,Tickell’s Blue Flycatcher,"Blue,Orange,White,Black",M,Sparrow,http://en.wikipedia.org/wiki/Tickell%27s_Blue_Flycatcher
+Cyornis tickelliae,Tickell’s Blue Flycatcher,"Blue,Orange,Brown,Black",F,Sparrow,http://en.wikipedia.org/wiki/Tickell%27s_Blue_Flycatcher
+Eumyias thalassina,Verditer Flycatcher,"Blue,Grey,Black",M,Sparrow +,http://en.wikipedia.org/wiki/Verditer_Flycatcher
+Eumyias thalassina,Verditer Flycatcher,"Blue,Grey,Black",F,Sparrow +,http://en.wikipedia.org/wiki/Verditer_Flycatcher
+Terpsiphone paradisi,Asian Paradise-flycatcher,"White,Black,Brown,Grey,Blue",M,Sparrow +,http://en.wikipedia.org/wiki/Asian_Paradise-flycatcher
+Terpsiphone paradisi,Asian Paradise-flycatcher,"Brown,Black,Grey,Blue",F,Sparrow +,http://en.wikipedia.org/wiki/Asian_Paradise-flycatcher
+Rhipidura albicollis,White-throated Fantail,"White,Black,Brown",M/F,Sparrow +,http://en.wikipedia.org/wiki/White-throated_Fantail
+Prinia socialis,Ashy Prinia,"Grey,Orange,Brown",M/F,Sparrow -,http://en.wikipedia.org/wiki/Ashy_Prinia
+Prinia hodgsonii,Grey-breasted Prinia,"Grey,White,Brown",M/F,Sparrow - ,http://en.wikipedia.org/wiki/Grey-breasted_Prinia
+Prinia sylvatica,Jungle Prinia,"Brown,White,Grey",M/F,Sparrow,http://en.wikipedia.org/wiki/Jungle_Prinia
+Prinia inornata,Plain Prinia,"Brown,White,Grey",M/F,Sparrow -,http://en.wikipedia.org/wiki/Plain_Prinia
+Acrocephalus dumetorum ,Blyth’s Reed-warbler,"Green,Grey",M/F,Sparrow -,http://en.wikipedia.org/wiki/Blyth%27s_Reed_Warbler
+Hippolais caligata,Booted Warbler,"Brown,White",M/F,Sparrow -,http://en.wikipedia.org/wiki/Booted_Warbler
+Acrocephalus stentoreus,Indian Reed-warbler (Clamorous Reed Warbler),"Brown,White",M/F,Sparrow +,http://en.wikipedia.org/wiki/Special:Search/Indian_Reed-warbler
+Orthotomus sutorius,Common Tailorbird,"Green,White,Brown",M/F,Sparrow - ,http://en.wikipedia.org/wiki/Common_Tailorbird
+Sylvia curruca,Lesser Whitethroat,"Brown,White,Grey",M/F,Sparrow,http://en.wikipedia.org/wiki/Lesser_Whitethroat
+Phylloscopus trochiloides,Greenish Warbler,"Green,Grey,White,Yellow,Black",M/F,Sparrow -,http://en.wikipedia.org/wiki/Greenish_Warbler
+Phylloscopus collybita,Siberian Chiffchaff (Common Chiffchaff),"Green,Brown,Yellow,White",M/F,Sparrow -,http://en.wikipedia.org/wiki/Siberian_Chiffchaff
+Phylloscopus humei,Hume’s Leaf-warbler (Hume's Warbler),"Green,Brown,White,Yellow,Grey",M/F,Sparrow -,http://en.wikipedia.org/wiki/Hume%27s_Leaf-warbler
+Phylloscopus griseolus,Sulphur-bellied Warbler,"Yellow,Brown",M/F,Sparrow - ,http://en.wikipedia.org/wiki/Sulphur-bellied_Warbler
+Phoenicurus ochruros,Black Redstart,"Black,Brown,Grey",M,Sparrow +,http://en.wikipedia.org/wiki/Black_Redstart
+Phoenicurus ochruros,Black Redstart,"Brown,Grey",F,Sparrow +,http://en.wikipedia.org/wiki/Black_Redstart
+Copsychus saularis,Oriental Magpie-robin,"Black,White,Grey",M,Sparrow +,http://en.wikipedia.org/wiki/Oriental_Magpie-robin
+Copsychus saularis,Oriental Magpie-robin,"Grey,White",F,Sparrow +,http://en.wikipedia.org/wiki/Oriental_Magpie-robin
+Saxicoloides fulicata ,Indian Black Robin (Indian Robin),"Black,Brown",M,Sparrow,http://en.wikipedia.org/wiki/Indian_Robin
+Saxicoloides fulicata ,Indian Black Robin (Indian Robin),Brown,F,Sparrow,http://en.wikipedia.org/wiki/Indian_Robin
+Saxicola torquata,Common Stonechat,"Brown,White,Black",M,Sparrow - ,http://en.wikipedia.org/wiki/Common_Stonechat
+Saxicola torquata,Common Stonechat,"Brown,White,Black",F,Sparrow - ,http://en.wikipedia.org/wiki/Common_Stonechat
+Saxicola caprata  ,Pied Bushchat,"Black,White",M,Sparrow -,http://en.wikipedia.org/wiki/Pied_Bushchat
+Saxicola caprata  ,Pied Bushchat,"Brown,White",F,Sparrow -,http://en.wikipedia.org/wiki/Pied_Bushchat
+Monticola solitarius,Blue Rock-Thrush,"Blue,Brown,Grey,White",M,Myna +,http://en.wikipedia.org/wiki/Blue_Rock-Thrush
+Monticola solitarius,Blue Rock-Thrush,"Brown,Grey,White",F,Myna +,http://en.wikipedia.org/wiki/Blue_Rock-Thrush
+Turdus merula,Common Blackbird (Eurasian Blackbird),"Grey,Black,Yellow",M,Myna +,http://en.wikipedia.org/wiki/Common_Blackbird
+Turdus merula,Common Blackbird (Eurasian Blackbird),"Brown,Grey,Yellow",F,Myna +,http://en.wikipedia.org/wiki/Common_Blackbird
+Parus xanthogenys,Black-lored Yellow Tit (Black-lored Tit),"Yellow,Black,White,Grey",M,Sparrow,http://en.wikipedia.org/wiki/Black-lored_Yellow_Tit
+Parus xanthogenys,Black-lored Yellow Tit (Black-lored Tit),"Yellow,Black,White,Grey",F,Sparrow,http://en.wikipedia.org/wiki/Black-lored_Yellow_Tit
+Parus major ,Great Tit,"Grey,White,Black",M/F,Sparrow -,http://en.wikipedia.org/wiki/Great_Tit
+Anthus rufulus,Paddyfield Pipit,"Brown,White,Black",M/F,Sparrow +,http://en.wikipedia.org/wiki/Paddyfield_Pipit
+Anthus trivialis,Tree Pipit,"Brown,White,Black",M/F,Sparrow +,http://en.wikipedia.org/wiki/Tree_Pipit
+Motacilla cineria,Grey Wagtail,"Grey,Yellow,White",M/F,Sparrow +,http://en.wikipedia.org/wiki/Grey_Wagtail
+Motacilla alba dukhunensis ,White Wagtail,"White,Grey,Black",M/F,Sparrow +,http://en.wikipedia.org/wiki/White_Wagtail
+Motacilla maderaspatensis ,White-browed Wagtail,"Black,White,Grey",M/F,Myna -,http://en.wikipedia.org/wiki/White-browed_Wagtail
+Nectarinia lotenia,Loten’s Sunbird,"Blue,Brown,Purple",M,Sparrow -,http://en.wikipedia.org/wiki/Loten%27s_Sunbird
+Nectarinia lotenia,Loten’s Sunbird,"Yellow,Brown,White",F,Sparrow -,http://en.wikipedia.org/wiki/Loten%27s_Sunbird
+Nectarinia asiatica ,Purple Sunbird,"Blue,Black,Brown",M,Sparrow -,http://en.wikipedia.org/wiki/Purple_Sunbird
+Nectarinia asiatica ,Purple Sunbird,"Yellow,Brown",F,Sparrow -,http://en.wikipedia.org/wiki/Purple_Sunbird
+Nectarinia zeylonica,Purple-rumped Sunbird,"Yellow,Brown,Green,Purple,Blue,Grey",M,Sparrow - ,http://en.wikipedia.org/wiki/Purple-rumped_Sunbird
+Nectarinia zeylonica,Purple-rumped Sunbird,"Yellow,Brown,Grey",F,Sparrow - ,http://en.wikipedia.org/wiki/Purple-rumped_Sunbird
+Zosterops palpebrosus,Oriental White-eye,"Yellow,Green,White,Grey",M/F,Sparrow - ,http://en.wikipedia.org/wiki/Oriental_White-eye
+Dicaeum concolor,Nilgiri Flowerpecker (Plain Flowerpecker),"Brown,Green,Yellow",M/F,Sparrow -,http://en.wikipedia.org/wiki/Nilgiri_Flowerpecker
+Dicaeum erythrorynchos ,Pale-billed Flowerpecker,"Green,Brown,White",M/F,Sparrow -,http://en.wikipedia.org/wiki/Pale-billed_Flowerpecker
+Dicaeum agile,Thick-billed Flowerpecker ,"Green,Brown,White",M/F,Sparrow -,http://en.wikipedia.org/wiki/Thick-billed_Flowerpecker
+Lonchura punctulata ,Scaly-breasted Munia,"Brown,White",M/F,Sparrow -,http://en.wikipedia.org/wiki/Scaly-breasted_Munia
+Amandava amandava,Red Avadavat,"Red,Brown,White",M,Sparrow -,http://en.wikipedia.org/wiki/Scaly-breasted_Munia
+Amandava amandava,Red Avadavat,"Brown,White,Red",F,Sparrow -,http://en.wikipedia.org/wiki/Scaly-breasted_Munia
+Lonchura malabarica,Indian Silverbill,"White,Brown,Black",M/F,Sparrow -,http://en.wikipedia.org/wiki/Indian_Silverbill
+Passer domesticus ,House Sparrow,"Brown,Grey,Black,White",M/F,Sparrow,http://en.wikipedia.org/wiki/House_Sparrow
+Petronia xanthocollis ,Yellow-throated Sparrow (Chestnut-shouldered petronia),"Brown,Yellow,White",M,Sparrow,http://en.wikipedia.org/wiki/Yellow-throated_Sparrow
+Petronia xanthocollis ,Yellow-throated Sparrow (Chestnut-shouldered petronia),"Brown,White",F,Sparrow,http://en.wikipedia.org/wiki/Yellow-throated_Sparrow
+Ploceus philippinus,Indian Baya Weaver (Baya Weaver),"Yellow,Brown,Black,White",M,Sparrow,http://en.wikipedia.org/wiki/Baya_Weaver
+Ploceus philippinus,Indian Baya Weaver (Baya Weaver),"Brown,Black,White",F,Sparrow,http://en.wikipedia.org/wiki/Baya_Weaver
+Carpodacus erythrinus,Common Rosefinch,"Red,Pink,Brown,White,Grey",M,Sparrow +,http://en.wikipedia.org/wiki/Common_Rosefinch
+Carpodacus erythrinus,Common Rosefinch,"Brown,White,Grey",F,Sparrow +,http://en.wikipedia.org/wiki/Common_Rosefinch
+Emberiza melanocephala,Black-headed Bunting,"Yellow,Brown,Black,White",M,Sparrow +,http://en.wikipedia.org/wiki/Black-headed_Bunting
+Emberiza melanocephala,Black-headed Bunting,"Brown,White",F,Sparrow +,http://en.wikipedia.org/wiki/Black-headed_Bunting
+Melophus lathami,Crested Bunting,"Black,Brown",M,Sparrow +,http://en.wikipedia.org/wiki/Crested_Bunting
+Melophus lathami,Crested Bunting,Brown,F,Sparrow +,http://en.wikipedia.org/wiki/Crested_Bunting
+Emeberiza buchanani,Grey-necked Bunting,"Grey,Brown,White",M,Sparrow +,http://en.wikipedia.org/wiki/Grey-necked_Bunting
+Emeberiza buchanani,Grey-necked Bunting,"Brown,White",F,Sparrow +,http://en.wikipedia.org/wiki/Grey-necked_Bunting
+Emberiza bruniceps,Red-headed Bunting,"Yellow,Brown,White",M,Sparrow +,http://en.wikipedia.org/wiki/Red-headed_Bunting
+Emberiza bruniceps,Red-headed Bunting,"Brown,White",F,Sparrow +,http://en.wikipedia.org/wiki/Red-headed_Bunting
+Oceanites oceanicus ,Wilson’s Storm-petrel,"Brown,White,Black,Grey",M/F,,http://en.wikipedia.org/wiki/Wilson's_Storm_Petrel
+Phaethon aethereus ,Red-billed Tropicbird,"White,Black,Grey,Brown",M/F,,http://en.wikipedia.org/wiki/Red-billed_Tropicbird
+Pelecanus philippensis,Spot-billed Pelican,"Grey,White,Brown",M/F,,http://en.wikipedia.org/wiki/Pelecanus_philippensis
+Phalacrocorax fuscicollis,Indian Shag (Indian Cormorant) ,"Black,Grey,Brown",M/F,,http://en.wikipedia.org/wiki/Phalacrocorax_fuscicollis
+Phalacrocorax carbo,Great Cormorant,"White,Black,Grey,Brown",M/F,,http://en.wikipedia.org/wiki/Phalacrocorax_carbo
+Anhinga melanogaster,Darter (Oriental Darter),"Black,White,Brown,Grey",M/F,,http://en.wikipedia.org/wiki/Oriental_Darter
+Fregata minor ,Great Frigatebird,"Black,Red,Grey,Brown",M,,http://en.wikipedia.org/wiki/Fregata_minor
+Fregata minor ,Great Frigatebird,"Black,White,Grey,Brown",F,,http://en.wikipedia.org/wiki/Fregata_minor
+Fregata ariel,Lesser Frigatebird (Least Frigatebird) ,"Black,White,Grey,Red,Brown",M,,http://en.wikipedia.org/wiki/Fregata_ariel
+Fregata ariel,Lesser Frigatebird (Least Frigatebird),"Black,White,Grey,Brown",F,,http://en.wikipedia.org/wiki/Fregata_ariel
+Sula dactylatra ,Masked Booby,"White,Brown,Grey,Black",M/F,,http://en.wikipedia.org/wiki/Masked_Booby
+Egretta gularis,Western Reef-heron (Western Reef-egret) ,"White,Grey",M/F,,http://en.wikipedia.org/wiki/Egretta_gularis
+Egretta garzetta,Little Egret,"White,Yellow,Rot,Blue,Grey,Green",M/F,,http://en.wikipedia.org/wiki/Egretta_garzetta
+Casmerodius albus ,Great Egret,"White,Green",M/F,,http://en.wikipedia.org/wiki/Great_Egret
+Mesophoyx intermedia,Intermediate Egret,"White,Orange,Yellow",M/F,,http://en.wikipedia.org/wiki/Mesophoyx_intermedia
+Bubulcus ibis ,Eastern Cattle Egret (Cattle Egret),"White,Yellow,Orange,Red",M/F,,http://en.wikipedia.org/wiki/Bubulcus_ibis
+Ardea cinerea,Grey Heron,"Grey,Black,White",M/F,,http://en.wikipedia.org/wiki/Ardea_cinerea
+Ardea purpurea,Purple Heron,"Grey,Black,White,Brown,Purple",M/F,,http://en.wikipedia.org/wiki/Ardea_purpurea
+Nycticorax nycticorax,Black-crowned Night-heron,"Black,Grey,White,Brown,Orange",M/F,,http://en.wikipedia.org/wiki/Nycticorax_nycticorax
+Butorides striatus,Striated Heron (Green-backed Heron) ,"Grey,White,Black,Brown,Yellow",M/F,,http://en.wikipedia.org/wiki/Butorides_striatus
+Dupetor  flavicollis (Ixobrychus flavicollis),Black Bittern,"Black,Yellow,Brown,White",M,,http://en.wikipedia.org/wiki/Black_Bittern
+Dupetor  flavicollis (Ixobrychus flavicollis),Black Bittern,"Brown,Black,Yellow,White",F,,http://en.wikipedia.org/wiki/Black_Bittern
+Ixobrychus cinnamomeus,Chestnut Bittern (Cinnamon Bittern) ,"Brown,Red,Orange,Black",M,,http://en.wikipedia.org/wiki/Ixobrychus_cinnamomeus
+Ixobrychus cinnamomeus,Chestnut Bittern (Cinnamon Bittern) ,"Brown,Red,Orange,Black",F,,http://en.wikipedia.org/wiki/Ixobrychus_cinnamomeus
+Ixobrychus sinensis,Yellow Bittern,"Brown,Red,Orange,Black",M,,http://en.wikipedia.org/wiki/Yellow_Bittern
+Ixobrychus sinensis,Yellow Bittern,"Brown,Red,Orange,Black",F,,http://en.wikipedia.org/wiki/Yellow_Bittern
+Botaurus stellaris ,Eurasian Bittern (Great Bittern),"Brown,Black,White",M/F,,http://en.wikipedia.org/wiki/Eurasian_Bittern
+Ciconia episcopus ,Wooly-necked Stork (White-necked Stork) ,"White,Black,Grey,Brown",M/F,,http://en.wikipedia.org/wiki/Woolly-necked_Stork
+Anastomus oscitans ,Asian Openbill (Asian Open-billed Stork) ,"White,Black,Grey,",M/F,,http://en.wikipedia.org/wiki/Anastomus_oscitans
+Ciconia ciconia ,White Stork,"White,Black,Grey,",M/F,,http://en.wikipedia.org/wiki/White_Stork
+Mycteria leucocephala,Painted Stork,"Black,White,Pink,Red,Grey,Brown",M/F,,http://en.wikipedia.org/wiki/Painted_Stork
+Ciconia nigra ,Black Stork,"Black,Grey,White.Brown",M/F,,http://en.wikipedia.org/wiki/Ciconia_nigra
+Ephippiorhynchus asiaticus,Black-necked Stork,"Black,Grey,Blue,Brown",M/F,,http://en.wikipedia.org/wiki/Black-necked_Stork
+Plegadis falcinellus ,Glossy Ibis,"Brown,Red,Orange,Black,Green",M/F,,http://en.wikipedia.org/wiki/Glossy_Ibis
+Threskiornis melanocephalus ,Black-headed Ibis (Asian White Ibis) ,"White,Black,Grey,Brown",M/F,,http://en.wikipedia.org/wiki/Threskiornis_melanocephalus
+Platalea leucorodia,Eurasian Spoonbill,"White,Grey,Yellow",M/F,,http://en.wikipedia.org/wiki/Eurasian_Spoonbill
+Pseudibis papillosa,Indian Black Ibis (Black Ibis) ,"Brown,Red,White,Grey,Blue,Black",M/F,,http://en.wikipedia.org/wiki/Indian_Black_Ibis
+Leptoptilos javanicus,Lesser Adjutant,"Black,Grey,White,Yellow,Orange",M/F,,http://en.wikipedia.org/wiki/Lesser_Adjutant
+Leptoptilos dubius,Greater Adjutant,"Black,Grey,White,Yellow,Orange,Pink",M/F,,http://en.wikipedia.org/wiki/Greater_Adjutant
+Phoenicopterus minor ,Lesser Flamingo,"Pink,White,Black",M/F,,http://en.wikipedia.org/wiki/Lesser_Flamingo
+Phoenicopterus ruber,Greater Flamingo,"Pink,White,Black",M/F,,http://en.wikipedia.org/wiki/Greater_Flamingo
+Anser indicus ,Bar-headed Goose,"Grey,White,Black,Brown",M/F,,http://en.wikipedia.org/wiki/Bar-headed_Goose
+Dendrocygna bicolor,Fulvous Whistling-duck,"Black,Brown,Grey,White",M/F,,http://en.wikipedia.org/wiki/Fulvous_Whistling-duck
+Dendrocygna javanica,Lesser Whistling-duck,"Brown,Black,Grey,Red",M/F,,http://en.wikipedia.org/wiki/Lesser_Whistling-duck
+Tadorna tadorna,Common Shelduck (Redbilled Shelduck)    ,"Black,Red,Brown,White",M,,http://en.wikipedia.org/wiki/Common_Shelduck
+Tadorna tadorna,Common Shelduck (Redbilled Shelduck)    ,"Black,Red,Brown,White",F,,http://en.wikipedia.org/wiki/Common_Shelduck
+Tadorna ferruginea,Ruddy Shelduck,"White,Brown,Red,Orange,Grey,Black,Green",M/F,,http://en.wikipedia.org/wiki/Ruddy_Shelduck
+Sarkidiornis melanotos,Comb Duck,"White,Grey,Black,Blue,Green,Purple",M,,http://en.wikipedia.org/wiki/Comb_Duck
+Sarkidiornis melanotos,Comb Duck,"White,Grey,Black,Blue,Green,Purple",F,,http://en.wikipedia.org/wiki/Comb_Duck
+Anas crecca ,Common Teal,"Black,White,Grey,Brown,Green",M,,http://en.wikipedia.org/wiki/Common_Teal
+Anas crecca ,Common Teal,"Brown,Black,Grey,White",F,,http://en.wikipedia.org/wiki/Common_Teal
+Anas querquedula,Garganey,"Black,Brown,Grey,White,Green",M,,http://en.wikipedia.org/wiki/Garganey
+Anas querquedula,Garganey,"Brown,Grey,Black,White",F,,http://en.wikipedia.org/wiki/Garganey
+Anas strepera,Gadwall,"Brown,Grey,Black,White",M,,http://en.wikipedia.org/wiki/Anas_strepera
+Anas strepera,Gadwall,"Brown,Grey,Black,White",F,,http://en.wikipedia.org/wiki/Anas_strepera
+Anas penelope,Eurasian Wigeon,"Brown,Grey,Black,White,Orange,Green",M,,http://en.wikipedia.org/wiki/Eurasian_Wigeon
+Anas penelope,Eurasian Wigeon,"Brown,Grey,Black,White",F,,http://en.wikipedia.org/wiki/Eurasian_Wigeon
+Anas clypeata ,Northern Shoveller,"Black,White,Brown,Grey,Green,Orange",M,,http://en.wikipedia.org/wiki/Northern_Shoveller
+Anas clypeata ,Northern Shoveller,"Brown,Grey,Black,White",F,,http://en.wikipedia.org/wiki/Northern_Shoveller
+Anas acuta ,Northern Pintail,"Black,Grey,White,Brown",M,,http://en.wikipedia.org/wiki/Anas_acuta
+Anas acuta ,Northern Pintail,"Black,Grey,White,Brown",F,,http://en.wikipedia.org/wiki/Anas_acuta
+Anas poecilorhyncha ,Indian Spot-billed Duck (Spot-billed Duck),"Black,Grey,White,Brown,Green,Red",M,,http://en.wikipedia.org/wiki/Spot-billed_Duck
+Anas poecilorhyncha ,Indian Spot-billed Duck (Spot-billed Duck),"Black,Grey,White,Brown",F,,http://en.wikipedia.org/wiki/Spot-billed_Duck
+Anas platyrhynchos ,Mallard,"Black,Brown,Grey,White,Green,Blue,Purple",M,,http://en.wikipedia.org/wiki/Anas_platyrhynchos
+Anas platyrhynchos ,Mallard,"Brown,Grey,Black,White,Purple,Blue ",F,,http://en.wikipedia.org/wiki/Anas_platyrhynchos
+Aythya fuligula,Tufted Duck (Tufted Pochard),"Black,White,Grey",M,,http://en.wikipedia.org/wiki/Aythya_fuligula
+Aythya fuligula,Tufted Duck (Tufted Pochard),"Black,Brown,Grey",F,,http://en.wikipedia.org/wiki/Aythya_fuligula
+Aythya  ferina ,Common Pochard,"Black,Grey,White,Brown",M,,http://en.wikipedia.org/wiki/Common_Pochard
+Aythya  ferina ,Common Pochard,"Brown,Grey,White",F,,http://en.wikipedia.org/wiki/Common_Pochard
+Rhodonessa rufina,Red-crested Pochard,"Black,Grey,White,Brown,Orange",M,,http://en.wikipedia.org/wiki/Red-crested_Pochard
+Rhodonessa rufina,Red-crested Pochard,"Brown,White,Grey",F,,http://en.wikipedia.org/wiki/Red-crested_Pochard
+,Pink-headed Duck,Extinct,,,
+,Pink-headed Duck,Extinct,,,
+Nettapus coromandelianus,Cotton Teal (Cotton Pygmy-goose),"Black,White,Grey,Green",M,,http://en.wikipedia.org/wiki/Nettapus_coromandelianus
+Nettapus coromandelianus,Cotton Teal (Cotton Pygmy-goose),"Brown,Black,Grey",F,,http://en.wikipedia.org/wiki/Nettapus_coromandelianus
+Aviceda leuphotes ,Black Baza,"Black,Brown,White",M/F,,http://en.wikipedia.org/wiki/Black_Baza
+Accipiter virgatus,Besra Sparrowhawk,"Black,Brown,Red,White,Grey,Orange",M/F,,http://en.wikipedia.org/wiki/Besra_Sparrowhawk
+Accipiter trivirgatus,Crested Goshawk,"Brown,White,Grey,Black",M,,http://en.wikipedia.org/wiki/Crested_Goshawk
+Accipiter trivirgatus,Crested Goshawk,"Brown,White,Grey,Black",F,,http://en.wikipedia.org/wiki/Crested_Goshawk
+Buteo buteo,"Steppe Buzzard (Eurasian Buzzard,Common Buzzard)","Brown,White,Black,Grey",M/F,,http://en.wikipedia.org/wiki/Buteo_buteo
+Buteo rufinus ,Long-legged Buzzard,"Brown,Black,White,Grey,Red",M/F,,http://en.wikipedia.org/wiki/Buteo_rufinus
+Pernis ptilorhyncus ,Oriental Honey-buzzard,"Brown,White,Black,Grey",M/F,,http://en.wikipedia.org/wiki/Oriental_Honey-buzzard
+Butastur teesa,White-eyed Buzzard,"Brown,White,Black,Grey",M/F,,http://en.wikipedia.org/wiki/Butastur_teesa
+Circaetus gallicus,Short-toed Eagle (Short-toed Snake-Eagle),"Brown,White,Black,Grey",M/F,,http://en.wikipedia.org/wiki/Circaetus_gallicus
+Hieraaetus kienerii ,Rufous-bellied Eagle,"Brown,White,Black,Grey,Orange,Red",M/F,,http://en.wikipedia.org/wiki/Rufous-bellied_Eagle
+Ictinaetus malayensis ,Black Eagle,"Black,Grey,Brown",M/F,,http://en.wikipedia.org/wiki/Ictinaetus_malayensis
+Aquila clanga ,Greater Spotted Eagle,"Brown,White,Black,Grey",M/F,,http://en.wikipedia.org/wiki/Greater_Spotted_Eagle
+Aquila nipalensis ,Steppe Eagle,"Brown,White,Black,Grey,Yellow",M/F,,http://en.wikipedia.org/wiki/Steppe_Eagle
