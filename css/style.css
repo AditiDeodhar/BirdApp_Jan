@@ -105,3 +105,9 @@ ul.sdt_menu li div.sdt_box a:first-child{
 ul.sdt_menu li div.sdt_box a:hover{
 	color:#fff;
 }
+.tab{
+	display:none;
+}
+.tab.active{
+	display:block;
+}

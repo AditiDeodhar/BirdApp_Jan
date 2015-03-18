@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>That's the Bird</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="description" content="That's the Bird!" />
+        <meta name="keywords" content="birds, indian birds, Bird identification"/>
+		<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon"/>
+		<script src="tabcontent.js" type="text/javascript"></script>
+		<link href="template1/tabcontent.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
+         <style>
+			body{
+				background:#333 url(bg.jpg) repeat top left;
+				font-family:Arial;
+			}
+			span.reference{
+				position:fixed;
+				left:10px;
+				bottom:10px;
+				font-size:12px;
+			}
+			span.reference a{
+				color:#aaa;
+				text-transform:uppercase;
+				text-decoration:none;
+				text-shadow:1px 1px 1px #000;
+				margin-right:30px;
+			}
+			span.reference a:hover{
+				color:#ddd;
+			}
+			ul.sdt_menu{
+				margin-top:150px;
+			}
+			h1.title{
+				text-indent:-9000px;
+				background:transparent url(title_bird.png) no-repeat top left;
+				width:633px;
+				height:69px;
+			}
+			
+		</style>
+	</head>
+	<body>
+	<form method="post" action="birdid.php">
+	<div class="content">
+		<h1 class="title">Bird Identification</h1>
+		<ul class="tabs" data-persist="true">
+            <li><a href="#view1">Color</a></li>
+            <li><a href="#view2">Size</a></li>            
+        </ul>
+		 <div class="tabcontents">
+            <div id="color">
+                
+                <p>Please select the colors in the bird you spotted</p>
+				<input type="checkbox" name="color[]" value="Red" />Red<br />
+						<input type="checkbox" name="color[]" value="Green" />Green<br />
+						<input type="checkbox" name="color[]" value="Blue" />Blue<br />
+						<input type="checkbox" name="color[]" value="Grey" />Grey<br />
+						<input type="checkbox" name="color[]" value="White" />White<br />
+						<input type="checkbox" name="color[]" value="Black" />Black<br />
+						<input type="checkbox" name="color[]" value="Brown" />Brown<br />
+						<input type="checkbox" name="color[]" value="Orange" />Orange<br />
+						<input type="checkbox" name="color[]" value="Pink" />Pink<br />
+						<input type="checkbox" name="color[]" value="Yellow" />Yellow<br />
+						<input type="checkbox" name="color[]" value="Not Sure" />Not Sure<br />     
+						<br><input type="submit" name="submit" value=Submit></br>
+                
+            </div>
+            <div id="size">
+			
+					<br>
+					<input type="radio" name="size" value="crow-" />Smaller than Crow<br />
+					<input type="radio" name="size" value="crow" />Equal to Crow<br />
+					<input type="radio" name="size" value="crow+" />Larger than Crow<br />
+					<input type="radio" name="size" value="kite+" />Larger than Kite<br />
+					<input type="radio" name="size" value="crow-kite" />Between Crow and Kite<br />
+					<input type="radio" name="size" value="sparrow-crow" />Between Sparrow and Crow<br />
+					<input type="radio" name="size" value="sparrow-" />Smaller than Sparrow<br />
+					<input type="radio" name="size" value="Not Sure" />Not Sure<br />
+					<br><input type="submit" name="submit" value=Submit></br>
+					 <br>
+			</div>
+                
+			
+		
+			</form>
+	</body>
+</html>
+	

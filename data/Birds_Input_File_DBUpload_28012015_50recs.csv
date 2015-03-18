@@ -1,0 +1,50 @@
+bird_id,bird_sci_name,bird_comm_eng_name,bird_body_colours,bird_sex,bird_size,bird_image,bird_tail_type,bird_crest_type,bird_bill_type,bird_leg_type,bird_state
+,Phalacrocorax niger,Little Cormorant,Black/Grey/White/Brown,M/F,Pigeon +,images/bird_images/Little_Cormorant.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Tachybaptus ruficollis,Little Grebe,Brown/Black/White,M/F,Myna +,images/bird_images/Little_Grebe.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Mesophoyx intermedia ,Intermediate Egret ,White,M,Kite +,images/bird_images/Intermediate_Egret.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Bubulcus ibis,Cattle Egret,White/Yellow/Orange,M/F,Hen +,images/bird_images/Cattle_Egret.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Ardeola grayii ,Indian Pond-heron ,White/Brown/Red,M/F,Hen,images/bird_images/Indian_Pond_Heron.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Dendrocygna javanica,Lesser Whistling-duck,Brown/White,M/F,Hen +,images/bird_images/Lesser_Whistling_Duck.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas poecilorhyncha,Indian Spot-billed Duck (Spot-billed Duck),Brown/Blue/Green/White,M,Hen +,images/bird_images/Spot_Billed_Duck_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas poecilorhyncha,Indian Spot-billed Duck (Spot-billed Duck),Brown/Blue/White,F,Hen +,images/bird_images/Spot_Billed_Duck_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas acuta,Northern Pintail,Brown/Grey/White/Black/Yellow/Orange,M,Hen +,images/bird_images/Northern_Pintail_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas acuta,Northern Pintail,Brown,F,Hen +,images/bird_images/Northern_Pintail_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas clypeata,Northern Shoveller,Green/Brown/White/Black,M,Hen +,images/bird_images/Northern_Shoveller_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas clypeata,Northern Shoveller,Brown/White,F,Hen +,images/bird_images/Northern_Shoveller_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas penelope,Eurasian Wigeon,Grey/Brown/Black/White/Green,M,Hen +,images/bird_images/Eurasian_Wigeon_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Anas penelope,Eurasian Wigeon,Grey/Brown/Black/White,F,Hen +,images/bird_images/Eurasian_Wigeon_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Nettapus coromanelianus,Cotton Teal (Cotton Pygmy-goose),Black/White/Green/Grey,M,Hen -,images/bird_images/Cotton_Teal_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Nettapus coromanelianus,Cotton Teal (Cotton Pygmy-goose),Brown/White/Green/Grey,F,Hen -,images/bird_images/Cotton_Teal_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Pernis ptilorhyncus,Oriental Honey-buzzard,Brown/Grey,M/F,Kite +,images/bird_images/Oriental_Honey_Buzzard.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Elanus caeruleus ,Black-winged Kite (Black-shouldered Kite),Grey/White/Black,M/F,Pigeon +,images/bird_images/Black_Winged_Kite.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Milvus migrans,Black Kite,Brown/Grey,M/F,Kite  ,images/bird_images/Black_Kite.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Haliastur indus,Brahminy Kite,Red/White/Brown,M/F,Kite,images/bird_images/Brahminy_Kite.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Accipiter badius ,Shikra ,Grey/White/Brown,M,Pigeon -,images/bird_images/Shikra_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Accipiter badius ,Shikra,Grey/White/Brown,F,Pigeon -,images/bird_images/Shikra_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Accipiter nisus,Eurasian Sparrowhawk,Grey/Brown,M,Kite -,images/bird_images/Eurasian_Sparrowhawk_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Accipiter nisus,Eurasian Sparrowhawk,Grey/Brown,F,Kite -,images/bird_images/Eurasian_Sparrowhawk_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Spizaetus cirrhatus,Changeable Hawk-Eagle,Brown/White/Black,M/F,Kite +,images/bird_images/Changeable_Hawk_Eagle.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Hieraaetus fasciatus ,Bonelli’s Eagle,Brown/Black,M/F,Kite +,images/bird_images/Bonelli's_Eagle.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Hieraaetus pennatus,Booted Eagle,Brown/White/Black,M/F,Kite +,images/bird_images/Booted_Eagle.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Aquila rapax,Tawny Eagle,Brown,M/F,Kite +,images/bird_images/Tawny_Eagle.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Aquila pomarina,Indian Spotted Eagle (Lesser Spotted Eagle),Brown/White,M/F,Kite +,images/bird_images/Indian_Spotted_Eagle.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Neophron percnopterus,Egyptian Vulture,White/Grey/Brown/Yellow,M/F,Kite +,images/bird_images/Egyptian_Vulture.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Gyps fulvus,Griffon Vulture (Eurasian Griffon),Brown/Grey/White/Black,M/F,Vulture,images/bird_images/Griffon_Vulture.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Gyps indicus,Indian Vulture (Long-billed Vulture),Brown/Grey/White/Black,M/F,Vulture,images/bird_images/Indian_Vulture.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Gyps bengalensis,White-rumped Vulture,Brown/White/Grey/Black,M/F,Vulture,images/bird_images/White_Rumped_Vulture.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Circus pygargus,Montagu’s Harrier,Grey/Black/White/Brown,M,Kite ,images/bird_images/Montague_Harrier_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Circus pygargus,Montagu’s Harrier,Brown/White,F,Kite ,images/bird_images/Montague_Harrier_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Circus macrourus,Pallid Harrier,Grey/Black/White ,M,Kite,images/bird_images/Pallid_Harrier_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Circus macrourus,Pallid Harrier,Brown/White,F,Kite,images/bird_images/Pallid_Harrier_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Spilornis cheela,Crested Serpent-eagle,Brown/White/Black,M/F,Kite +,images/bird_images/Crested_Serpent_Eagle.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Falco peregrinus,Peregrine Falcon,Black/White/Brown/Yellow,M/F,Kite -,images/bird_images/Peregrine_Falcon.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Falco tinnunculus ,Common Kestrel,Brown/Grey/Yellow,M/F,Pigeon,images/bird_images/Common_Kestrel.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Galloperdix spadicea,Red Spurfowl,Red/Brown/Grey/Black/Pink,M,Hen,images/bird_images/Red_Spurfowl_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Galloperdix spadicea,Red Spurfowl,Brown/Black/Grey,F,Hen,images/bird_images/Red_Spurfowl_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Francolinus pondicerianus,Grey Francolin,Grey/Brown/Yellow,M/F,Hen,images/bird_images/Grey_Francolin.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Francolinus pictus,Painted Francolin,Black/White/Brown,M,Hen,images/bird_images/Painted_Francolin_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Francolinus pictus,Painted Francolin,Brown,F,Hen,images/bird_images/Painted_Francolin_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Coturnix coromandelica,Rain Quail,Brown/Black/White,M,Myna +,images/bird_images/Rain_Quail_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Coturnix coromandelica,Rain Quail,Brown/White,F,Myna +,images/bird_images/Rain_Quail_F.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Perdicula argoondah,Rock Bush-quail,Brown/Black/White,M,Myna +,images/bird_images/Rock_Bush_Quail_M.jpg,NULL,NULL,NULL,NULL,Maharashtra
+,Perdicula argoondah,Rock Bush-quail,Brown/White,F,Myna +,images/bird_images/Rock_Bush_Quail_F.jpg,NULL,NULL,NULL,NULL,Maharashtra

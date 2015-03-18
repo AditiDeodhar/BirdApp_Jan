@@ -1,0 +1,6 @@
+LOAD DATA INFILE 'C:/Aditi/Softwares/wamp/www/BirdApp/data/Birds_Input_File_DBUpload_28012015_50recs.csv'
+INTO TABLE bird_details
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
