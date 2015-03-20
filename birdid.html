@@ -48,7 +48,8 @@
 		<h1 class="title">Bird Identification</h1>
 		<ul class="tabs" data-persist="true">
             <li><a href="#view1">Color</a></li>
-            <li><a href="#view2">Size</a></li>            
+            <li><a href="#view2">Size</a></li>   
+			<li><a href="#view3">State</a></li>    			
         </ul>
 		 <div class="tabcontents">
             <div id="color">
@@ -64,12 +65,11 @@
 						<input type="checkbox" name="color[]" value="Orange" />Orange<br />
 						<input type="checkbox" name="color[]" value="Pink" />Pink<br />
 						<input type="checkbox" name="color[]" value="Yellow" />Yellow<br />
-						<input type="checkbox" name="color[]" value="Not Sure" />Not Sure<br />     
+						<input type="checkbox" name="color[]" value="Not Sure" checked/>Not Sure<br />     
 						<br><input type="submit" name="submit" value=Submit></br>
                 
             </div>
-            <div id="size">
-			
+            <div id="size">			
 					<br>
 					<input type="radio" name="size" value="crow-" />Smaller than Crow<br />
 					<input type="radio" name="size" value="crow" />Equal to Crow<br />
@@ -78,11 +78,20 @@
 					<input type="radio" name="size" value="crow-kite" />Between Crow and Kite<br />
 					<input type="radio" name="size" value="sparrow-crow" />Between Sparrow and Crow<br />
 					<input type="radio" name="size" value="sparrow-" />Smaller than Sparrow<br />
-					<input type="radio" name="size" value="Not Sure" />Not Sure<br />
+					<input type="radio" name="size" value="Not Sure" checked/>Not Sure<br />
 					<br><input type="submit" name="submit" value=Submit></br>
 					 <br>
 			</div>
+            <div id="state">                
+                <p>Please select the state/ union territory in which you spotted the bird</p>
+				<input type="checkbox" name="state[]" value="Maharashtra" />Maharashtra<br />
+				<input type="checkbox" name="state[]" value="Goa" />Goa<br />
+				<input type="checkbox" name="state[]" value="Karnataka" />Karnataka<br />
+				<input type="checkbox" name="state[]" value="Arunachal Pradesh" />Arunachal Pradesh<br />
+				<input type="checkbox" name="state[]" value="No Idea" checked/>No Idea<br />     
+				<br><input type="submit" name="submit" value=Submit></br>
                 
+            </div>    
 			
 		
 			</form>

@@ -29,25 +29,30 @@ class colorCriteria
 	
 	public function processColor()	
 	{
-		$query = "SELECT * FROM bird_details WHERE bird_body_colors LIKE ";
-		
-		for ($i=0; $i<sizeof($this->_color); $i++)
+		if(count($this->_color) == 0)
 		{
-			if ($i==0)
-			{
-				$query_append = "'".'%'. $this->_color[$i]. '%'."'";
-				$query = $query. $query_append;
-			}
-			else
-			{					
-				$query_append = "bird_body_colors LIKE "."'".'%'. $this->_color[$i]. '%'."'";
-				$query = $query." ". 'AND'." ".$query_append;
-			}
-						
+			$query = "SELECT * FROM bird_details";
 		}
+		else
+		{
+			$query = "SELECT * FROM bird_details WHERE bird_body_colors LIKE ";
 		
-		return $query;
-		
+			for ($i=0; $i<sizeof($this->_color); $i++)
+			{
+				if ($i==0)
+				{
+					$query_append = "'".'%'. $this->_color[$i]. '%'."'";
+					$query = $query. $query_append;
+				}
+				else
+				{					
+					$query_append = "bird_body_colors LIKE "."'".'%'. $this->_color[$i]. '%'."'";
+					$query = $query." ". 'AND'." ".$query_append;
+				}
+							
+			}
+		}		
+		return $query;		
 	}
 	
 }

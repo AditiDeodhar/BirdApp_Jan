@@ -1,61 +1,56 @@
 <?php
 /**
-* The class criteria is used to capture the input by the user. 
-* Depending on the user input, appropriate function will be called.
+* The class stateCriteria is used to capture the state input entered by the user. 
+* The data will be processed and the query will be formulated and returned to the birdid.php
 * @author Aditi Deodhar <deodhar.a@gmail.com>
 * @copyright Aditi, Dharmaraj, Girish, 2015
 */
 
-class Criteria
+class stateCriteria
 {
 	// properties 
-	protected $_color;
 	protected $_state;
-	protected $_size;
 	
-	// methods
-	
-	public function __construct($color)
+	// methods	
+	public function __construct($state)
 	{		
-		$this->_color = $color;		
+		$this->_state = $state;		
 	}
-	public function getColor()
+	public function getState()
 	{
-		return $this->_color;
+		return $this->_state;
 	}
 	
 	/**
-	* This function passes list of colors as entered by the user to the function querying the database.
-	* @param array $color 	list of colors
+	* This function passes list of states as entered by the user to the function querying the database.
+	* @param array $state 	list of states
 	*/
-	public function processColor()	
+	public function processState()	
 	{
-		$query = "SELECT * FROM bird_details WHERE bird_body_colors LIKE ";
-		
-		if (sizeof($this->_color) > 1)
+		if(sizeof($this->_state) == 0)
 		{
-			for ($i=0; $i<sizeof($this->_color); $i++)
-			{
-				if ($i==0)
-				{
-					$query = $query. $this->_color[$i];
-				}
-				else
-				{
-					$query = $query." ". 'AND'." ". $this->_color[$i];
-				}
-			}
-			echo "The final query is ". $query;
+			$query = "SELECT * FROM bird_details";
 		}
 		else
 		{
-			$query = $query." " ." ". $this->_color[0];
-			echo "The final query is". $query;
-		}
-		return $query;
-		
-	}
-	
+			$query = "SELECT * FROM bird_details WHERE bird_state LIKE ";
+			
+			for ($i=0; $i<sizeof($this->_state); $i++)
+			{
+				if ($i==0)
+				{
+					$query_append = "'".'%'. $this->_state[$i]. '%'."'";
+					$query = $query. $query_append;
+				}
+				else
+				{					
+					$query_append = "bird_state LIKE "."'".'%'. $this->_state[$i]. '%'."'";
+					$query = $query." ". 'AND'." ".$query_append;
+				}
+							
+			}
+		}		
+		return $query;		
+	}	
 }
-
 ?>
