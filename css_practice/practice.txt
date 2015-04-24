@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<head>
+<title>Example Cafe - community cafe in Newquay, Cornwall, UK </title>
+</head>
+<body>
+</body>
+</html>
